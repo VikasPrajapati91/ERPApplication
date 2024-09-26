@@ -1,0 +1,11 @@
+E:\ERP\ERPApplication\Domain\bin\Debug\net8.0\Domain.deps.json
+E:\ERP\ERPApplication\Domain\bin\Debug\net8.0\Domain.dll
+E:\ERP\ERPApplication\Domain\bin\Debug\net8.0\Domain.pdb
+E:\ERP\ERPApplication\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\ERP\ERPApplication\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+E:\ERP\ERPApplication\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+E:\ERP\ERPApplication\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\ERP\ERPApplication\Domain\obj\Debug\net8.0\Domain.dll
+E:\ERP\ERPApplication\Domain\obj\Debug\net8.0\refint\Domain.dll
+E:\ERP\ERPApplication\Domain\obj\Debug\net8.0\Domain.pdb
+E:\ERP\ERPApplication\Domain\obj\Debug\net8.0\ref\Domain.dll
